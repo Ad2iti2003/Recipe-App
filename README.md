@@ -29,20 +29,26 @@ Frontend:
 
 Expo EAS Build
 
-React Native App
-     |
-     |---- Text-to-Speech (Expo Speech)
-     |
-     |---- Axios
-             |
-        Node.js API
-             |
-          MongoDB
-             |
-        Recipe API
-
 
 
 Backend:
 
 Render / Railway / Vercel
+
+React Native App
+     |
+     
+     |---- Text-to-Speech (Expo Speech)
+     |
+     
+     |---- Axios
+             |
+             
+        Node.js API
+             |
+             
+          MongoDB
+             |
+             
+        Recipe API
+
